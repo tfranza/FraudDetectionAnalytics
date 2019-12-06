@@ -1,0 +1,21 @@
+{
+	"folder": {
+		"dataset": "data/",
+		"preprocessed": "data/preprocessed/",
+		"training": "data/training/",
+		"test": "data/test/",
+		"model": "data/model/",
+		"results": "data/results/"
+	},
+
+	"artifact": {
+		"dataset": "paysim1.csv",
+		"preprocessed": "preprocessed.pk",
+		"training": "training.pk",
+		"test": "test.pk",
+		"model": "model.pk",
+		"results": "results.pk"
+	}
+
+
+}
